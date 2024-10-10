@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "MATTHEW BROWN and JULIE CARR SMYTH",
+        "title": "Embattled Democratic senators steer clear of Kamala Harris buzz but hope it helps",
+        "description": "BOZEMAN, Mont. (AP) — Montana U.S. Sen. Jon Tester has made protecting reproductive freedom for women central to his campaign to remain the sole remaining Democrat to hold statewide elective office in Big Sky Country.",
+        "url": "https://apnews.com/e7256dd5dd657f0432c36a5c2d2dc8bf",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/99d59a9c2dee43bb9382c33469069102/3000.jpeg",
+        "publishedAt": "2024-09-14T04:11:16Z",
+        "content": "BOZEMAN, Mont. (AP) — Montana U.S. Sen. Jon Tester has made protecting reproductive freedom for women central to his campaign to remain the sole remaining Democrat to hold statewide elective office i… [+7553 chars]"
+      },
+      {
+        "source": {
+          "id": "entertainment-weekly",
+          "name": "Entertainment Weekly"
+        },
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "Kelly Clarkson reacts to Beyoncé's CMAs snub, recalls country music advice",
+        "description": "Kelly Clarkson comments on Beyoncé's 'Cowboy Carter' album being left out of CMA Awards nominations.",
+        "url": "https://ew.com/kelly-clarkson-on-beyonce-cmas-snub-recalls-country-music-advice-8712616",
+        "urlToImage": "https://ew.com/thmb/GRFRE_VQXSZfZ8MeFgB9YCx7biY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Beyonce--Kelly-Clarkson44-09132024-db595c4e1a114938ab79d1b5abf3cd0b.jpg",
+        "publishedAt": "2024-09-14T01:52:14.4859236Z",
+        "content": "Kelly Clarkson was surprised but not shocked to hear that Beyoncé's album Cowboy Carter wasn't nominated in any category at the upcoming CMA Awards.\r\n \"I kind of find it fascinating, because I feel l… [+2013 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Matt Viser, Robyn Dixon",
+        "title": "Biden and U.K.’s Starmer meet amid storm over Ukraine weapons",
+        "description": "Putin warned that if the U.S. lets Kyiv fire Western weapons deeper into his country, it would mean NATO is waging war on Russia",
+        "url": "https://www.washingtonpost.com/politics/2024/09/13/biden-starmer-ukraine-weapons-white-house/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7MYTD3NRQZWCFKTV6BVSOEGLU.JPG&w=1440",
+        "publishedAt": "2024-09-13T23:24:09Z",
+        "content": "President Joe Biden and British Prime Minister Keir Starmer met at the White House on Friday amid rising tensions with Russia, reaffirming their support for Ukraine but declining to publicly address … [+7139 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Pam Key",
+        "title": "Capehart: 'Frightening' Half of the Country Is Buying What Trump Is Selling",
+        "description": "MSNBC host Jonathan Capehart said Friday on \"Chris Jansing Reports\" it was \"frightening\" that roughly half the country supports former President Donald Trump. | Clips",
+        "url": "https://www.breitbart.com/clips/2024/09/13/capehart-frightening-half-of-the-country-is-buying-what-trump-is-selling/",
+        "urlToImage": "https://media.breitbart.com/media/2019/03/capehart-640x335.jpg",
+        "publishedAt": "2024-09-13T21:06:39Z",
+        "content": "MSNBC host Jonathan Capehart said Friday on “Chris Jansing Reports” it was “frightening” that roughly half the country supports former President Donald Trump.\r\nCapehart said, “I’ve been watching Dona… [+1163 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Pochettino targets World Cup win with USA",
+        "description": "New USA coach Mauricio Pochettino targets winning the World Cup and says they should be inspired by the country's women's team and 'best coach in the world' Emma Hayes.",
+        "url": "http://www.bbc.co.uk/sport/football/articles/cvgx339v5q2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/31f6/live/460c4f00-71f6-11ef-b282-4535eb84fe4b.jpg",
+        "publishedAt": "2024-09-13T17:52:15.4195906Z",
+        "content": "New USA coach Mauricio Pochettino has set his sights on winning the World Cup and says they should be inspired by the country's women's team and \"best coach in the world\" Emma Hayes.\r\nThe former Tott… [+1370 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Simone McCarthy",
+        "title": "China’s secretive space plane has returned to Earth. Its mission? Unknown",
+        "description": "A Chinese “reusable experimental spacecraft” believed to be the country’s secretive space plane has landed back on Earth after more than eight months in orbit – the latest development in a largely covert race between the United States and China to hone such t…",
+        "url": "https://www.cnn.com/2024/09/12/science/china-space-plane-intl-hnk/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230712230643-china-crewed-moon-landing-2030-intl-hnk-scn.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-13T02:07:40Z",
+        "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nA Chinese reusable experimental spacecraft bel… [+8082 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Alex Fitzpatrick, Kavya Beheraj",
+        "title": "The country's new business hot spots, mapped",
+        "description": "The Southeastern U.S. is a hotbed of new business activity.",
+        "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+        "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+        "publishedAt": "2023-07-13T09:30:06Z",
+        "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+      },
+      {
+        "source": {
+          "id": "the-next-web",
+          "name": "The Next Web"
+        },
+        "author": "Ioanna Lykiardopoulou",
+        "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+        "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+        "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+        "publishedAt": "2023-06-22T11:21:08Z",
+        "content": "Quick commerce platform Getir is bidding adieu to the French market less than two years since starting its operations in the country.\r\nIn a press release sent to AFP, the company said that it will so… [+1469 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Eamon Barrett",
+        "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+        "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+        "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+        "publishedAt": "2022-06-01T10:31:29Z",
+        "content": "Skip to Content"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "RTÉ News",
+        "title": "275,000 appointments made at Penneys this week",
+        "description": "There have been 275,000 appointment slots booked for Penneys stores around the country this week, the retailer has said.",
+        "url": "https://www.rte.ie/news/business/2021/0515/1221782-penneys/",
+        "urlToImage": "https://img.rasset.ie/0016c07f-1600.jpg",
+        "publishedAt": "2021-05-15T10:52:52Z",
+        "content": "There have been 275,000 appointment slots booked for Penneys stores around the country this week, the retailer has said.\r\nPenney's 36 stores opened on an appointment-only basis from last Monday, with… [+577 chars]"
+      }
+    ]
+  }
