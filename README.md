@@ -37,59 +37,39 @@ Built with React.js, this application provides users with a clean interface to e
 
 ---
 
+
+
 ## ⚙️ Installation & Setup
 
-2️⃣ Navigate to Project Folder
-cd Newsapp
+Follow the steps below to run this project on your local machine.
 
-3️⃣ Install Dependencies
-npm install
-
-4️⃣ Configure API Key
-
-Create a .env file in the root directory and add:
-
-REACT_APP_NEWS_API_KEY=your_api_key_here
-
-
-Get your API key from: https://newsapi.org/
-
-5️⃣ Start Development Server
-npm start
-
-
-Open in browser:
-
-http://localhost:3000
-
-
-Follow these steps to run the project locally:
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
+### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/mahes-reddy332/Newsapp.git
+```
 
-2️⃣ Navigate to Project Folder
-cd Newsapp
+Step 2: Go to Project Directory
+```bash cd Newsapp ```
 
-3️⃣ Install Dependencies
+Step 3: Install Dependencies
+```bash
 npm install
+```
 
-4️⃣ Configure API Key
 
-Create a .env file in the root directory and add:
 
+Step 4: Setup Environment Variables
+Create a .env file in the root folder and add:
+```bash
 REACT_APP_NEWS_API_KEY=your_api_key_here
+ ```
+Get your API key from:
+https://newsapi.org/
 
-
-Get your API key from: https://newsapi.org/
-
-5️⃣ Start Development Server
+Step 5: Start the Application
+```bash
 npm start
+```
+Step 6: Open in Browser
 
-```bash 
-Open in browser:
-
-http://localhost:3000 ###
+http://localhost:3000
