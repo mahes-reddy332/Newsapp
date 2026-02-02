@@ -18,6 +18,8 @@ Built with React.js, this application provides users with a clean interface to e
 
 ---
 
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, JavaScript, HTML, CSS  
@@ -31,11 +33,17 @@ Built with React.js, this application provides users with a clean interface to e
 
 > Sample Project Layout
 
-![NewsApp UI](./screenshots/homepage.png)
+
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/d94bfd59-df9c-4796-8015-5d31a0258269" />
+<img width="1916" height="1049" alt="Screenshot 2026-02-02 175340" src="https://github.com/user-attachments/assets/3b807495-04fb-480c-9d93-2c43390054ac" />
+<img width="1919" height="1141" alt="Screenshot 2026-02-02 175332" src="https://github.com/user-attachments/assets/e3abce9d-073c-49f6-8fef-210d27e99827" />
+<img width="1918" height="1038" alt="Screenshot 2026-02-02 175319" src="https://github.com/user-attachments/assets/dc6f11c7-362b-4d3b-9e11-990d0cdb3adf" />
+
 
 > *(Replace this with your real project screenshots for better presentation.)*
 
 ---
+<img width="1919" height="1127" alt="Screenshot 2026-02-02 175430" src="https://github.com/user-attachments/assets/365ecbde-f195-496c-a549-6507610344f4" />
 
 
 
